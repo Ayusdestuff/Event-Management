@@ -1,0 +1,19 @@
+.modal-dialog {
+  max-width: 700px;
+}
+
+.rbc-month-row {
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex: 100px;
+  flex: 100px;
+  overflow: hidden;
+  height: 100%;
+}
+
+.margin-top-30 {
+  margin-top: 30px;
+}
