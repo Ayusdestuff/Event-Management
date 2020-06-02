@@ -18,7 +18,7 @@ To host MERN stack applications, I know of two approaches.
 ### To run this application.
 
 ```
-  git clone https://github.com/lexyblazy/event-management.git
+  git clone https://github.com/Ayusdestuff/event-management.git
   cd event-management
   npm install
   cd client && npm install
